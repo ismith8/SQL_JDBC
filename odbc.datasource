@@ -1,0 +1,3 @@
+datasource.name=artemis.vsnet.gmu.edu:1521/vse18c.vsnet.gmu.edu
+datasource.username = ismith8
+datasource.password = ipynsarg
